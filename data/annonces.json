@@ -120,6 +120,23 @@
         "/images/IMG_3660.jpg",
         "/images/IMG_3662.jpg"
       ]
+    },
+    {
+      "titre": "Chambre Studio St Urbain",
+      "disponible": true,
+      "type": "Chambre ",
+      "loyer": 840,
+      "quartier": "Saint Urbain",
+      "mode_contact": "coordonnees",
+      "contact_nom": "Padiolleau",
+      "email": "sebastien.padiolleau@hotmail.fr",
+      "description": " Je propose une chambre studio aménagée indépendante  dans une cour fermée avec possibilité de stationnement pour 1 personne avec un coin cuisine aménagée comprenant une bouilloire, un réfrigérateur, un  micro ondes,  une plaque induction et une table haute  , un coin sdb séparé par une porte coulissante.\nLe logement se situe sur la commune de Saint Urbain  à 10 minutes de Challans et 12 minutes de Saint jean de monts. \nTarif à la  nuitée de 28 euros .\nLogement  disponible du dimanche soir au vendredi matin. \nToutes demandes sera étudié. \n",
+      "photos": [
+        "/images/20967.jpg",
+        "/images/1161.jpg",
+        "/images/973.jpg",
+        "/images/974.jpg"
+      ]
     }
   ]
 }
